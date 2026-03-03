@@ -1,1 +1,1 @@
-streamlit tensorflow numpy pillow
+streamlit tensorflow-cpu numpy pillow
